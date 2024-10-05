@@ -29,7 +29,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
+
     
 }
 
@@ -110,6 +110,8 @@ body {
 .list {
 
     list-style-type: none;
+    padding: 0
+    
     
  }
 
